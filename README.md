@@ -1,6 +1,6 @@
 ## Olá, eu me chamo João Pedro 👋
 
-- 🔭 Estou em busca da minha primeira vaga como Desenvolvedor Full-stack Júnior
+- 🔭 Estou em busca de uma vaga como Desenvolvedor Front-end Júnior | Back-end Júnior | Full-stack Júnior
 
 ## Ferramentas e Tecnologias
 
