@@ -1,7 +1,5 @@
 ## Olá, eu me chamo João Pedro 👋
 
-- 🔭 Estou em busca de uma vaga como Desenvolvedor Front-end Júnior | Back-end Júnior | Full-stack Júnior
-
 ## Ferramentas e Tecnologias
 
 <div>
@@ -14,6 +12,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="60" />
+          
 <div>
   
 ## Mídias Sociais
